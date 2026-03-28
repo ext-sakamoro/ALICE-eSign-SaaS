@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ALICE_ESIGN
+description: ALICE eSign
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
